@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+}
+
+#dog_icon {
+  width: 3%;
+  float: left;
+  top: 5%;
+  left: 5%;
+}
+
+.banner_links {
+  background-color: #83DADE;
+  color: white;
+  padding: 10px;
+  float: right;
+}
+
+#spacer {
+  background-color: #83DADE;
+  padding: 24px;
+}
+
+#title {
+  color: black;
+  position: absolute;
+  top: 40%;
+  left: 38%;
+  right: 30%;
+  font-size: 38px;
+  font-weight: lighter;
+}
+
+  #park {
+  float: left;
+  width: 100%;
+  clip: rect(0, 1200px, 500px, 0);
+}
